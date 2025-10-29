@@ -1,1 +1,2 @@
-print("edit py")
+print("edit")
+print("selamat siang")
