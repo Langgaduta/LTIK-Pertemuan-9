@@ -1,2 +1,2 @@
 print("hello word")
-print("LTIK")
+print("LTIKK")
